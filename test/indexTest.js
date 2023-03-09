@@ -1,3 +1,5 @@
+const expect = require('expect/lib/index.js');
+
 require ( './root.js' );
 
 
@@ -52,3 +54,12 @@ describe('sayHiToHeadphonedRoommate(string)', function() {
     );
   });
 })
+//test(proper sum , () =>
+//expect(sum(1,2).toBe(3))
+
+
+
+
+
+
+
